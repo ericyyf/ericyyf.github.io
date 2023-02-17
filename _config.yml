@@ -52,13 +52,13 @@ ga:
 # Leave empty (just "plausible:" with subitems commented out) to disable.
 #plausible:
 plausible:
-    domain: 'tsjensen.github.io'
+    domain: 'ericyyf.github.io'
 
 
 # A picture of you, square(!), at least 180x180 pixels, more is better. Recommended file size < 100 KB.
 # Leave empty for generic placeholder image.
 # You can use your GitHub image:
-avatar: "https://raw.githubusercontent.com/tsjensen/fuse-core/gh-pages/images/background.jpg"
+avatar: "images/background.jpg"
 #avatar: "images/jonathan_doe.jpg"
 #avatar:
 
@@ -181,7 +181,7 @@ links:
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
-    dont download anything from this website,it is for private use only
+    dont download anything from this website,it is for private use only,
     world peace
 
 #EOF
