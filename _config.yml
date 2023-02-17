@@ -134,7 +134,7 @@ links:
   - github:
       name: GitHub
       show: true
-      href: https://github.com/tsjensen
+      href: https://github.com/ericyyf
       icon: fab fa-github
   - codepen:
       name: CodePen
